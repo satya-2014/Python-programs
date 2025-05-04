@@ -1,0 +1,10 @@
+i=9
+print("Value of I = ",i)
+i+=1
+print("Value of I = ",i)
+i-=1
+print("Value of I = ",i)
+i*=3
+print("Value of I = ",i)
+i/=2
+print("Value of I = ",i)
